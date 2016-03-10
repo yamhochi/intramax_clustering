@@ -1,2 +1,4 @@
 # intramax_clustering
-Hierarchical clustering to define community clusters. Modified from flowmap incorporating multiple dimensions
+A Hierarchical clustering procedure to define community clusters. 
+Modified from flowmap 
+Modeified Single layer to multi layer clustering
